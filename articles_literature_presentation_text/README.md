@@ -6,3 +6,5 @@
 3) **Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning:** 	[arXiv:2510.25992](https://arxiv.org/abs/2510.25992) (Гибридный метод, сочетающий обучение на экспертных траекториях (Supervised Learning) с пошаговым вознаграждением (Reinforcement Learning) для обучения сложным рассуждениям **(SRL)**)
 4) **Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning:** [arXiv:2507.00432](https://arxiv.org/abs/2507.00432) (SFT не позволяет обобщать модель между областями математики, в отличии от RL, благодаря которому модель может решать задачи из других доменов)
 5) **Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models**: [arXiv:2509.26626](https://arxiv.org/abs/2509.26626) **(RSA)**
+6) **BLEU: a Method for Automatic Evaluation of MachineTranslation**: [статья](https://aclanthology.org/P02-1040.pdf)
+7) [**Реализация sacrebleu**](https://github.com/mjpost/sacrebleu)
